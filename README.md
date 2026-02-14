@@ -23,3 +23,7 @@ What was used in this project ? :
           
   This project is intended to create a resume and practice and is of no value.    
   این پروژه به منظور ایجاد یک رزومه وتمرین بوده برای یادگیری و پیشرفت برای پروژه و تمرینات دیگر
+
+
+
+<img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/b5b2fad6-a082-43be-868c-255e48b04e26" />
